@@ -231,3 +231,6 @@ This repository serves as the official landing page for User Agent Switcher. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of User Agent Switcher today!**
+
+---
+**Last updated:** 2026-09-09 16:57:41 UTC
